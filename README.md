@@ -41,3 +41,5 @@ Esse programa com o nome de "Login.java" tem o objetivo de receber nome do usuar
 
 
 # Questão 8
+
+Esse programa com o nome de "Bonus.java" tem o objetivo de receber a quantidade de funcionários que serão cadastrados, após receber a quantidade ele recebe os nomes dos funcionários e sueus respectivos salários e após esse procedimento retorna o salário e o bonus ou desconto que cada funcionário irá receber ou ser descontado com a função "calculaBonus(double salario)". Os bonus são calculados pela porcentagem do salário,  se o salário for igual ou menor que 1000 receberá bonus de 20%, se salário menor ou igual a 2000 o bonus é de 10%,porém se o salrio for maior que 2000 acontecerá um desconto de 10%. É utilizado um loop "for" para receber todos os funcionários e array para armazenar os dados. 
